@@ -26,6 +26,6 @@ Passionate about technology, education and learn something new.
 </br>
  <div align="left">
   
-  ![Snake animation](https://github.com/carlosportella16/carlosportella16/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thunder-source/thunder-source/blob/output/github-contribution-grid-snake.svg)
   
 </div>
