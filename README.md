@@ -1,7 +1,7 @@
 <h1 align="center">Praditya Manjhi</h1>
 
 <p align="center">
-  Developer focused on building practical software, learning in public, and getting better every day.
+  Software developer focused on building practical web and mobile products with clean UI and reliable backend logic.
 </p>
 
 <p align="center">
@@ -13,15 +13,36 @@
   </a>
 </p>
 
-## About me
+## What I do
 
-- Interested in software engineering, web development, and continuous learning.
-- Comfortable working across frontend, backend, and general product development.
-- Always exploring better ways to build useful, maintainable software.
+- Build full-stack applications with a frontend-first product mindset.
+- Work across web, backend, and mobile using JavaScript, React, Node.js, and Java.
+- Keep learning through hands-on projects, experiments, and shipping real features.
 
-## Tech stack
+## Current focus
 
-<p>
+- Building responsive user interfaces with React and modern CSS tooling.
+- Improving backend fundamentals with APIs, databases, and application structure.
+- Exploring mobile development with React Native and cross-platform workflows.
+
+## What I like building
+
+- Dashboards and admin panels
+- Full-stack CRUD applications
+- Authentication flows and user management
+- REST API integrations
+- Mobile-first product interfaces
+
+## Open to
+
+- Internship opportunities
+- Freelance or collaborative projects
+- Open source contributions
+- Connecting with other developers
+
+## Tech I use
+
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,11 +61,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## GitHub stats
+## A simple goal
 
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+<p>
+  Build useful software, keep improving the fundamentals, and turn curiosity into real projects.
 </p>
 
 ## Contributions
