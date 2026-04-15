@@ -43,12 +43,25 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thunder-source&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-source&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ## Contributions
 
 <p align="center">
-  <img src="https://github.com/thunder-source/thunder-source/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/thunder-source/thunder-source/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/thunder-source/thunder-source/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/thunder-source/thunder-source/output/github-contribution-grid-snake.svg"
+      alt="Contribution snake animation"
+    />
+  </picture>
 </p>

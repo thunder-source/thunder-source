@@ -1,0 +1,44 @@
+name: Generate profile stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true
+          path: profile/stats.svg
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true
+          path: profile/top-langs.svg
+
+      - name: Commit updated cards
+        run: |
+          if git diff --quiet -- profile; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile
+          git commit -m "chore: update profile stats"
+          git push
