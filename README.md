@@ -25,6 +25,14 @@
 - Improving backend fundamentals with APIs, databases, and application structure.
 - Exploring mobile development with React Native and cross-platform workflows.
 
+## Featured projects
+
+- [PhotoCurator](https://github.com/thunder-source/photo-curator) - A local AI desktop app for sorting and categorizing photos using face recognition, aesthetic scoring, blur detection, and duplicate filtering.
+- [GitHub Streak Maintainer](https://github.com/thunder-source/github-streak-maintainer) - A small Node.js automation project that uses GitHub Actions to create one valid contribution commit per UTC day.
+- [Social Media Frontend](https://github.com/thunder-source/social-media-frontend) - A frontend codebase for a social media product, focused on interface building, app structure, and user-facing flows.
+- [RevuKart Backend](https://github.com/thunder-source/RevuKart-Backend) - A backend project built with NestJS for structuring APIs and server-side application logic.
+- [Complete Claude Code Ollama Setup Guide](https://github.com/thunder-source/Complete-Claude-Code-Ollama-Setup-Guide) - A setup guide around running coding workflows with local AI tools and Ollama.
+
 ## What I like building
 
 - Dashboards and admin panels
