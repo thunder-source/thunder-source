@@ -24,7 +24,7 @@ jobs:
         with:
           card: stats
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=GitHub%20Overview
           path: profile/stats.svg
 
       - name: Generate top languages card
