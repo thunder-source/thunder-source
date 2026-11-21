@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="84.86"
+          width="84.87"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="84.86"
+          x="84.87"
           y="0"
-          width="84.7"
+          width="84.69"
           height="8"
           fill="#e34c26"
         />
@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="169.56"
           y="0"
-          width="44.04"
+          width="44.03"
           height="8"
           fill="#663399"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="213.6"
+          x="213.59"
           y="0"
-          width="18.51"
+          width="18.5"
           height="8"
           fill="#f1e05a"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="232.10999999999999"
+          x="232.09"
           y="0"
           width="18.259999999999998"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.36999999999998"
+          x="240.35"
           y="0"
           width="15.09"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.45999999999998"
+          x="245.44"
           y="0"
           width="12.57"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.02999999999997"
+          x="248.01"
           y="0"
           width="11.98"
           height="8"
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 33.94%
+        TypeScript 33.95%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
